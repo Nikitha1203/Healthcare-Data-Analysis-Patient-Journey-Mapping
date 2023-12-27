@@ -1,4 +1,4 @@
-Healthcare Data Analysis: Patient Journey Mapping
+ Healthcare Data Analysis: Patient Journey Mapping
 Overview
 Welcome to the Healthcare Data Analysis project! This initiative harnesses the power of electronic health records (EHR) data to delve into and understand patient journeys within a healthcare setting. The analysis places emphasis on critical aspects such as waiting time distributions, time series analysis of patient admissions, patient segmentation based on age and waiting time, and root cause analysis pertaining to bottleneck probabilities.
 
@@ -14,7 +14,14 @@ Investigate the intricate relationship between patient age and waiting time, fur
 
 4. Root Cause Analysis:
 Conduct a detailed analysis of the impact of bottleneck probabilities on waiting times. This root cause analysis aims to provide a deeper understanding of the factors influencing patient delays, facilitating targeted interventions and process improvements.
-![newplot (3)](https://github.com/Nikitha1203/Healthcare-Data-Analysis-Patient-Journey-Mapping/assets/109364397/0b05a607-4637-4ec5-82cc-a66b61d4415d)
+
+![newplot (1) - Copy](https://github.com/Nikitha1203/Healthcare-Data-Analysis-Patient-Journey-Mapping/assets/109364397/3d40e80b-1e55-4f68-8578-a7405e89224e)
+
+![newplot (2) - Copy](https://github.com/Nikitha1203/Healthcare-Data-Analysis-Patient-Journey-Mapping/assets/109364397/16ab4c15-3398-417a-aa35-a466005b6bd5)
+
+![newplot (3) - Copy](https://github.com/Nikitha1203/Healthcare-Data-Analysis-Patient-Journey-Mapping/assets/109364397/e3eb5645-60b4-4650-b372-30c53561e088)
+
+
 
 Conclusion
 This data analysis project serves as a valuable resource for healthcare professionals, data analysts, and stakeholders by offering actionable insights into healthcare data. The visualizations generated from this analysis can guide informed decision-making, contributing to enhanced patient care, resource optimization, and overall efficiency in healthcare service delivery.
