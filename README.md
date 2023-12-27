@@ -1,8 +1,15 @@
  Healthcare Data Analysis: Patient Journey Mapping
+
+
+
 Overview
+
+
 Welcome to the Healthcare Data Analysis project! This initiative harnesses the power of electronic health records (EHR) data to delve into and understand patient journeys within a healthcare setting. The analysis places emphasis on critical aspects such as waiting time distributions, time series analysis of patient admissions, patient segmentation based on age and waiting time, and root cause analysis pertaining to bottleneck probabilities.
 
 Objectives
+
+
 1. Waiting Time Distribution:
 Gain a comprehensive understanding of waiting time distributions to identify underlying trends and patterns in patient waiting periods. This insight is crucial for optimizing patient flow and improving overall healthcare service efficiency.
 
